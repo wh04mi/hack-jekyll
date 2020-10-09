@@ -1,2 +1,2 @@
 # Hack Jekyll
-About my blog
+All about blogs, notes and my knowledge of programming
