@@ -1,1 +1,2 @@
-# hack-jekyll
+# Hack Jekyll
+About my blog
